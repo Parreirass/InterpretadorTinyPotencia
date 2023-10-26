@@ -1,0 +1,5 @@
+program
+    base = read;
+    expoente = read;
+
+    output base ^ expoente;
